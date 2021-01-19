@@ -7,7 +7,7 @@ function setup() {
   createCanvas(400, 400);
   c1 = color(250, 250, 250);
   c2 = color(249, 255, 206);
-  c3 = color(180,180,180);
+  c3 = color(152,255,213);
 }
 
 
